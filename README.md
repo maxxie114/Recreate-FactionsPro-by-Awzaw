@@ -1,21 +1,21 @@
 This is the plugin FactionsPro by Awzaw, since he deleted the plugin on his github, I am uploading it up again.
 
 A list of commands:
-  /f create
-  /f del
-  /f leave
-  /f invite "player"
-  /f kick "player"
-  /f desc
-  /f promote "player"
-  /f demote "player"
-  /f leader "player"
+  #/f create
+  #/f del
+  #/f leave
+  #/f invite "player"
+  #/f kick "player"
+  #/f desc
+  #/f promote "player"
+  #/f demote "player"
+  #/f leader "player"
   
-  /f claim
-  /f unclaim
+  #/f claim
+  3/f unclaim
   
-  /f sethome
-  /f unsethome
+  #/f sethome
+  #/f unsethome
   /f home
   
   /f info "Faction"
