@@ -4,12 +4,12 @@ A list of commands:
   /f create
   /f del
   /f leave
-  /f invite <player>
-  /f kick <player>
+  /f invite "player"
+  /f kick "player"
   /f desc
-  /f promote <player>
-  /f demote <player>
-  /f leader <player>
+  /f promote "player"
+  /f demote "player"
+  /f leader "player"
   
   /f claim
   /f unclaim
@@ -18,21 +18,21 @@ A list of commands:
   /f unsethome
   /f home
   
-  /f info <Faction>
-  /f membersof <Faction>
-  /f officersof <Faction>
-  /f leaderof <Faction>
+  /f info "Faction"
+  /f membersof "Faction"
+  /f officersof "Faction"
+  /f leaderof "Faction"
   /f ourmembers
   /f ourleader
   /f ourofficers
   
-  /f enemywith <Faction>
-  /f allywith <Faction>
-  /f breakalliancewith <Faction>
+  /f enemywith "Faction"
+  /f allywith "Faction"
+  /f breakalliancewith "Faction"
   /f allyok
   /f allyno
-  /f allies <Faction>
-  /f enemies <Faction>
+  /f allies "Faction"
+  /f enemies "Faction"
   
   /f chat
   /f c
