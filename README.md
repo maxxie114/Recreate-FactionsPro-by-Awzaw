@@ -9,7 +9,7 @@ A list of commands:
   /f desc
   /f promote "player"
   /f demote "player"
-  /f leader "player" \n
+  /f leader "player"
   
   /f claim
   /f unclaim
